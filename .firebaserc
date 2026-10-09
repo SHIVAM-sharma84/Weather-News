@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "weather-news-df2a8",
+    "dist": "weather-news-df2a8"
+  },
+  "targets": {},
+  "etags": {}
+}
